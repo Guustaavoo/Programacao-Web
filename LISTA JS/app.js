@@ -1,5 +1,9 @@
-var resultado = 10 + 20;
-console.log(resultado);
+var soma = 10 + 20;
+var diferenca = 30 - 10;
+var multiplicacao = 15 * 2;
+var divisao = 100 / 5;
 
-var resultado = 30 - 10;
-console.log(resultado);
+console.log("Soma:", soma);
+console.log("Diferença:", diferenca);
+console.log("Multiplicação: ", multiplicacao);
+console.log("Divisão: ", divisao);
