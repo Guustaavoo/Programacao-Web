@@ -5,9 +5,8 @@ var divisao = 100 / 5;
 var restoDivisao = 45 % 6;
 var numeros = [15, 25, 35, 45];
 var somanumeros = 0;
-for (var i = 0; i < numeros.length; i++) {
-    somanumeros += numeros[i];
-}
+    for (var i = 0; i < numeros.length; i++) {
+        somanumeros += numeros[i];}
 var media = somanumeros / numeros.length;
 var valor = 80;
 var porcentagem = 25;
