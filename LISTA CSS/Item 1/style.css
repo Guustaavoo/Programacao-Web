@@ -1,0 +1,22 @@
+.alert {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.alert-atencao {
+    background-color: #ffcc00;
+    color: #333;
+}
+
+.alert-perigo {
+    background-color: #ff0000;
+    color: #fff;
+}
+
+.alert-informacao {
+    background-color: #007bff;
+    color: #fff;
+}
